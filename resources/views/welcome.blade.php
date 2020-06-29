@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    First Jenkins Build with Laravel
+                    Second Jenkins Build with Laravel
                 </div>
 
                 <div class="links">
